@@ -148,6 +148,7 @@ theme.loadEditor = function ()
 		VisualMode =			{ fg = solarized.yellow, bg = solarized.none, style = 'reverse' },
 		CommandMode =			{ fg = solarized.gray, bg = solarized.none, style = 'reverse' },
 		Warnings =				{ fg = solarized.purple },
+		Whitespace =			{ fg = solarized.highlight },
 
         healthError =           { fg = solarized.error },
         healthSuccess =         { fg = solarized.green },
